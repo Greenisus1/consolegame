@@ -87,7 +87,7 @@ then now run
  piusernamefinder link -------------------------------------------------------------------------> [[CONTENT_LOCKED]] _****if it says content locked then it will be fixed report it please****_
 
  **ON LINUX**
- COMING SOON
+i think it is the same thing
 
 
  
